@@ -5,3 +5,5 @@ This repo is only for MD files syntax testing etc.
 # Comment line
 kubectl get pods
 ````
+
+> Note: This line to show side note.
